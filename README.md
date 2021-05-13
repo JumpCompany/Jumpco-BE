@@ -8,8 +8,8 @@ They're a youth theatrical performance group.
 
 Anyway, their website currently is a ~~hideous~~ weebly they've had since I joined them. I recently graduated from Lambda School
 as a full stack web developer. SO I wanted to do this side project as a sort of token of appreciation
-for their sort of raising me in the theatre and introducing me to my favorite hobby (even into adulthood).
-As well as continuing my education and growing more as a developer.
+for their sort of raising me in the theatre and introducing me to my favorite hobby (even into adulthood).As well as continuing my education and growing more as a developer.
+
 ---
 The link to the final site will be >>>here<<< once I get that far
 
