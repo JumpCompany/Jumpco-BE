@@ -1,4 +1,4 @@
-**Hello!** Welcome to my repository
+###Hello! Welcome to my repository
 *BTW I'm Lukerdue checkout [my personal github](http://github.com/Lukerdue)*
 
 This is the Backend repository I'm building for a personal side project. I'm building a standalone application
